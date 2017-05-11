@@ -3,6 +3,7 @@
 /.classpath
 /.project
 /log
+/logs
 /pom.xml.releaseBackup
 /output
 /.pydevproject

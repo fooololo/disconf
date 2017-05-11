@@ -16,3 +16,4 @@
 .idea
 BCLOUD
 build.sh
+src/main/webapp/tmp/
